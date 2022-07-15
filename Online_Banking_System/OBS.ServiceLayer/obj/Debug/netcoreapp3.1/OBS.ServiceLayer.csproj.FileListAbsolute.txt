@@ -1,0 +1,5 @@
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.ServiceLayer\obj\Debug\netcoreapp3.1\OBS.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.ServiceLayer\obj\Debug\netcoreapp3.1\OBS.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.ServiceLayer\obj\Debug\netcoreapp3.1\OBS.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.ServiceLayer\obj\Debug\netcoreapp3.1\OBS.ServiceLayer.AssemblyInfo.cs
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.ServiceLayer\obj\Debug\netcoreapp3.1\OBS.ServiceLayer.csproj.CoreCompileInputs.cache

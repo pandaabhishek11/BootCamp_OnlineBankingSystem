@@ -1,0 +1,16 @@
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS_Repository\obj\Debug\netcoreapp3.1\OBS_Repository.csproj.AssemblyReference.cache
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS_Repository\obj\Debug\netcoreapp3.1\OBS_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS_Repository\obj\Debug\netcoreapp3.1\OBS_Repository.AssemblyInfoInputs.cache
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS_Repository\obj\Debug\netcoreapp3.1\OBS_Repository.AssemblyInfo.cs
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS_Repository\obj\Debug\netcoreapp3.1\OBS_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS_Repository\bin\Debug\netcoreapp3.1\OBS_Repository.deps.json
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS_Repository\bin\Debug\netcoreapp3.1\OBS_Repository.runtimeconfig.json
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS_Repository\bin\Debug\netcoreapp3.1\OBS_Repository.runtimeconfig.dev.json
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS_Repository\bin\Debug\netcoreapp3.1\OBS_Repository.dll
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS_Repository\bin\Debug\netcoreapp3.1\OBS_Repository.pdb
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS_Repository\bin\Debug\netcoreapp3.1\OBS.DomainLayer.dll
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS_Repository\bin\Debug\netcoreapp3.1\OBS.DomainLayer.pdb
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS_Repository\obj\Debug\netcoreapp3.1\OBS_Repository.csproj.CopyComplete
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS_Repository\obj\Debug\netcoreapp3.1\OBS_Repository.dll
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS_Repository\obj\Debug\netcoreapp3.1\OBS_Repository.pdb
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS_Repository\obj\Debug\netcoreapp3.1\OBS_Repository.genruntimeconfig.cache

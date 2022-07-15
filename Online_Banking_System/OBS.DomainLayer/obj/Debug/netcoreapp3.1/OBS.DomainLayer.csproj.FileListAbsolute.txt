@@ -1,0 +1,13 @@
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.DomainLayer\bin\Debug\netcoreapp3.1\OBS.DomainLayer.deps.json
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.DomainLayer\bin\Debug\netcoreapp3.1\OBS.DomainLayer.runtimeconfig.json
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.DomainLayer\bin\Debug\netcoreapp3.1\OBS.DomainLayer.runtimeconfig.dev.json
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.DomainLayer\bin\Debug\netcoreapp3.1\OBS.DomainLayer.dll
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.DomainLayer\bin\Debug\netcoreapp3.1\OBS.DomainLayer.pdb
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.DomainLayer\obj\Debug\netcoreapp3.1\OBS.DomainLayer.csproj.AssemblyReference.cache
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.DomainLayer\obj\Debug\netcoreapp3.1\OBS.DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.DomainLayer\obj\Debug\netcoreapp3.1\OBS.DomainLayer.AssemblyInfoInputs.cache
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.DomainLayer\obj\Debug\netcoreapp3.1\OBS.DomainLayer.AssemblyInfo.cs
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.DomainLayer\obj\Debug\netcoreapp3.1\OBS.DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.DomainLayer\obj\Debug\netcoreapp3.1\OBS.DomainLayer.dll
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.DomainLayer\obj\Debug\netcoreapp3.1\OBS.DomainLayer.pdb
+C:\Users\Panda_1\source\repos\Online_Banking_System\OBS.DomainLayer\obj\Debug\netcoreapp3.1\OBS.DomainLayer.genruntimeconfig.cache
